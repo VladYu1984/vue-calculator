@@ -1,4 +1,4 @@
-# my-app
+# my-app Calculator
 
 ## Project setup
 ```
